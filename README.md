@@ -21,7 +21,6 @@ git pull origin master
     "App\\": "app/",
     "App\\Models\\": "app/Library/V2room/Models"
 },
-...
 ```
 
 ## License
