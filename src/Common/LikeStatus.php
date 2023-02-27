@@ -2,7 +2,7 @@
 
 namespace V2room\Models\Common;
 
-use Models\BaseModel;
+use V2room\Models\BaseModel;
 
 class LikeStatus extends BaseModel
 {
