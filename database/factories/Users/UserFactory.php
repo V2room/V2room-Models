@@ -1,14 +1,14 @@
 <?php
 
-namespace Database\Factories\Users;
+namespace Database\Factories\V2room\Models\Users;
 
-use Illuminate\Database\Eloquent\Factories\Factory;
+use Database\Factories\V2room\Models\BaseFactory;
 use Illuminate\Support\Str;
 
 /**
  * @extends \Illuminate\Database\Eloquent\Factories\Factory<\V2room\Models\Users\User>
  */
-class UserFactory extends Factory
+class UserFactory extends BaseFactory
 {
     /**
      * Define the model's default state.
