@@ -19,7 +19,8 @@ git pull origin master
 "autoload": {
     "psr-4": {
     "App\\": "app/",
-    "App\\Models\\": "app/Library/V2room/Models"
+    "Database\\Factories\\V2room\\Models\\": "app/Library/V2room/Models/database/factories/",
+    "V2room\\Models\\": "app/Library/V2room/Models/src/"
 },
 ```
 
