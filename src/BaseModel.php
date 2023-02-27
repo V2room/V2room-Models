@@ -6,6 +6,5 @@ use Illuminate\Database\Eloquent\Factories\HasFactory;
 
 class BaseModel extends \LaravelSupports\Models\Common\BaseModel
 {
-    // df
     use HasFactory;
 }
