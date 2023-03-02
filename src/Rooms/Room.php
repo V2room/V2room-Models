@@ -3,7 +3,7 @@
 namespace V2room\Models\Rooms;
 
 use V2room\Models\BaseModel;
-use Models\Users\User;
+use V2room\Models\Users\User;
 
 class Room extends BaseModel
 {
